@@ -2,7 +2,7 @@
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/prajapativikram/chat-gpt-clone?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/prajapativikram/chat-gpt-clone?style=flat-square)
-![License](https://img.shields.io/github/license/prajapativikram/chat-gpt-clone?style=flat-square)
+![License](https://img.shields.io/github/license/prajapativikram/chat-gpt-clone?style=flat-square&label=MIT)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 
 > 🤖 An **AI Chat Application** built using the **Gemini API**, designed to simulate ChatGPT-style conversations with a sleek, responsive UI.
